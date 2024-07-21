@@ -9,7 +9,7 @@ const Navbar = () => {
     <nav className="mb-20 flex items-center justify-between py-6">
       <div className="flex flex-shrink-0 items-center">
         <a
-          href="https://your-website.com"
+          href="https://personal-portfolio-mu-sable.vercel.app/"
           target="_blank"
           rel="noopener noreferrer"
         >
